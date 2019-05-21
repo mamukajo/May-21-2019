@@ -27,9 +27,9 @@
    27  Git config --list
    28  Git config usre.name
    29  Git config user.name
-   30  Git --global user.name "sowmya0987654"
+   30  Git --global user.name "mamukajo"
    31  git config user.name
-   32  Git config user.name "sowmya0987654"
+   32  Git config user.name "mamukajo"
    33  touch file1.txt
    34  ls
    35  Git init
@@ -37,9 +37,9 @@
    37  Git add file1.txt
    38  Git status
    39  Git commit -m "first file commit"
-   40  git config --global user.name "sowmya"
+   40  git config --global user.name "mamukajo"
    41  git config --global user.name
-   42  git config --global user.email "sowmyasunkavalli4@gmail.com
+   42  git config --global user.email joshivinay619@gmail.com
 git config --global user.email
 
 
@@ -48,10 +48,10 @@ git config --global user.email
 
 
 
-git config --global user.name "sowmya"
-git config --global user.email "sowmyasunkavalli4@gmail.com
+git config --global user.name "mamukajo"
+git config --global user.email "joshivinay619@gmail.com
    43  git config --global user.email
-   44  git config --global user.name "sowmya"
+   44  git config --global user.name "mamukajo"
    45  Git commit -m "first file commit"
    46  Git status
    47  echo "data in line1"> file1.txt
@@ -75,7 +75,7 @@ git config --global user.email "sowmyasunkavalli4@gmail.com
    65  Git reset HEAD file{2..10}.txt
    66  Git add file{2..10}.txt
    67  Git commit -m "added 9 files commit"
-   68  Git clone https://github.com/sowmya0987654/Problem-Solving-and-Programming
+   68  Git clone https://github.com/mamukajo/Problem-Solving-and-Programming
    69  ls
    70  ls
    71  ls
